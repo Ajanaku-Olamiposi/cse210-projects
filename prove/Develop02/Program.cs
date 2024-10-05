@@ -35,12 +35,17 @@ class Program
                 Console.WriteLine("What is the filename? ");
                 string file = Console.ReadLine();
                 journal.LoadFromFile(file);
+                Console.WriteLine("Loading file.....");
+                Console.WriteLine("Loaded file. Select option 2 to display the content.");
+
             }
             else if (choice == 4)
             {
                 Console.WriteLine("What is the filename? ");
                 string file = Console.ReadLine();
                 journal.SaveToFile(file);
+                Console.WriteLine("Saving to file.....");
+                Console.WriteLine("Saved to file");
             }
         }
 
