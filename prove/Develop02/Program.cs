@@ -1,5 +1,5 @@
 using System;
-
+//Exceeding Requirements:  I added the time the journal was written to the journal entry
 class Program
 {
     static void Main(string[] args)
