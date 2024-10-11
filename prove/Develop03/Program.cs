@@ -1,5 +1,6 @@
 using System;
 using System.ComponentModel;
+// Exceeding requirements;  I added functionality that enables the user to input whatever chapter and verse of the bible they want to memorise
 
 class Program
 {
