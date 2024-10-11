@@ -1,9 +1,5 @@
 using System;
 using System.ComponentModel;
-using System;
-using System.Net.Http;
-using System.Threading.Tasks;
-using System.Runtime.InteropServices.JavaScript;
 
 class Program
 {
